@@ -29,7 +29,9 @@ We were required to bring in the moment.js library in order to work with dates/t
 In my application blocks of time are defined with the colors below. 
 
 PAST = Pink
+
 PRESENT = Red
+
 FUTURE = Green
 
 We were also required to use local storage to save the events, so that when the page is refreshed the list remains the same. 
